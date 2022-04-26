@@ -5,15 +5,19 @@ Collect and decode the signals from weather satellites
 
 ### Devices 
 RTL-SDR
+
 USRP N210
 
 ### Softwares
 Orbitron : Satellite Tracking App
-SDRSharp : Signal reception app for RTL-SDR
+
+SDRSharp : Signal reception app for RTL-SDR (here is a software that includes all the required plugins https://github.com/wikiZ/SDRSharpQPSK)
+
 GNU Radio Companion (3.7 verison) : Signal reception app for USRP N210
 
 ### Satellites
 NOAA series (FM modulation), e.g. NOAA 15/18/19/20
+
 METEOR series (QPSK modulation), e.g. METEOR M1/M2/M2 2
 
 
