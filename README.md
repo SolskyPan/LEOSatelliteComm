@@ -24,4 +24,5 @@ METEOR series (QPSK modulation), e.g. METEOR M1/M2/M2 2
 ## Satellite Signal Decoding
 
 ### Softwares
-WXtoImg : 
+WXtoImg : decode the NOAA APT (Automatic Picture Transmission) signals, download link (stable verison) is: https://wxtoimgrestored.xyz/downloads/
+LRPTDecoder: decode the LRPT (Low Rate Picture Transmission) signals, download link (LRPT Suite for Meteor M2 under Windows 7, 8 and 10) is: https://leshamilton.co.uk/MeteorLRPTSuite.htm, 
